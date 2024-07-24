@@ -1,1 +1,3 @@
 # swiss-testnet-contract
+
+0xb2006a488Ca9a0aa235fcb52723Cc7F90A3dC7d0
